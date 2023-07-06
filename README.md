@@ -1,6 +1,5 @@
 - 👋 Hi, I’m osama
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Nest js
 
 <!---
 osama-rf/osama-rf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
